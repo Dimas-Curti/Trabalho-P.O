@@ -1,0 +1,84 @@
+Métodos(QuickSort + Pesquisa binária)
+Tempo em milissegundos para promissoria500alea = 58
+Tempo em milissegundos para promissoria500ord = 20
+Tempo em milissegundos para promissoria500inv = 15
+Tempo em milissegundos para promissoria1000alea = 32
+Tempo em milissegundos para promissoria1000ord = 17
+Tempo em milissegundos para promissoria1000inv = 11
+Tempo em milissegundos para promissoria5000alea = 53
+Tempo em milissegundos para promissoria5000ord = 42
+Tempo em milissegundos para promissoria5000inv = 98
+Tempo em milissegundos para promissoria10000alea = 142
+Tempo em milissegundos para promissoria10000ord = 62
+Tempo em milissegundos para promissoria10000inv = 56
+Tempo em milissegundos para promissoria30000alea = 125
+Tempo em milissegundos para promissoria30000ord = 131
+Tempo em milissegundos para promissoria30000inv = 130
+
+Métodos(HeapSort + Pesquisa binária)
+Tempo em milissegundos para promissoria500alea = 8
+Tempo em milissegundos para promissoria500ord = 9
+Tempo em milissegundos para promissoria500inv = 7
+Tempo em milissegundos para promissoria1000alea = 10
+Tempo em milissegundos para promissoria1000ord = 9
+Tempo em milissegundos para promissoria1000inv = 14
+Tempo em milissegundos para promissoria5000alea = 30
+Tempo em milissegundos para promissoria5000ord = 25
+Tempo em milissegundos para promissoria5000inv = 30
+Tempo em milissegundos para promissoria10000alea = 51
+Tempo em milissegundos para promissoria10000ord = 41
+Tempo em milissegundos para promissoria10000inv = 40
+Tempo em milissegundos para promissoria30000alea = 119
+Tempo em milissegundos para promissoria30000ord = 103
+Tempo em milissegundos para promissoria30000inv = 105
+
+Método (Arvore ABB)
+Tempo em milissegundos para promissoria500alea = 6
+Tempo em milissegundos para promissoria500ord = 10
+Tempo em milissegundos para promissoria500inv = 7
+Tempo em milissegundos para promissoria1000alea = 7
+Tempo em milissegundos para promissoria1000ord = 14
+Tempo em milissegundos para promissoria1000inv = 15
+Tempo em milissegundos para promissoria5000alea = 19
+Tempo em milissegundos para promissoria5000ord = 293
+Tempo em milissegundos para promissoria5000inv = 297
+Tempo em milissegundos para promissoria10000alea = 34
+Tempo em milissegundos para promissoria10000ord = 1071
+Tempo em milissegundos para promissoria10000inv = 1070
+Tempo em milissegundos para promissoria30000alea = 78
+Tempo em milissegundos para promissoria30000ord = 10808
+Tempo em milissegundos para promissoria30000inv = 10835
+
+Método (Arvore AVL)
+Tempo em milissegundos para promissoria500alea = 7
+Tempo em milissegundos para promissoria500ord = 5
+Tempo em milissegundos para promissoria500inv = 6
+Tempo em milissegundos para promissoria1000alea = 6
+Tempo em milissegundos para promissoria1000ord = 6
+Tempo em milissegundos para promissoria1000inv = 5
+Tempo em milissegundos para promissoria5000alea = 20
+Tempo em milissegundos para promissoria5000ord = 14
+Tempo em milissegundos para promissoria5000inv = 17
+Tempo em milissegundos para promissoria10000alea = 41
+Tempo em milissegundos para promissoria10000ord = 27
+Tempo em milissegundos para promissoria10000inv = 27
+Tempo em milissegundos para promissoria30000alea = 99
+Tempo em milissegundos para promissoria30000ord = 62
+Tempo em milissegundos para promissoria30000inv = 61
+
+Método (Hashing)
+Tempo em milissegundos para promissoria500alea = 4
+Tempo em milissegundos para promissoria500ord = 4
+Tempo em milissegundos para promissoria500inv = 5
+Tempo em milissegundos para promissoria1000alea = 5
+Tempo em milissegundos para promissoria1000ord = 5
+Tempo em milissegundos para promissoria1000inv = 5
+Tempo em milissegundos para promissoria5000alea = 14
+Tempo em milissegundos para promissoria5000ord = 11
+Tempo em milissegundos para promissoria5000inv = 13
+Tempo em milissegundos para promissoria10000alea = 22
+Tempo em milissegundos para promissoria10000ord = 22
+Tempo em milissegundos para promissoria10000inv = 25
+Tempo em milissegundos para promissoria30000alea = 59
+Tempo em milissegundos para promissoria30000ord = 52
+Tempo em milissegundos para promissoria30000inv = 49
